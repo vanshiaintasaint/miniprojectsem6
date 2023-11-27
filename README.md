@@ -1,1 +1,3 @@
-# miniprojectsem6
+# Leaf Disease Detection
+
+Leaf Disease Detection is a Deep Learning project we worked on in our Third year of engineering (VI semester). The aim of this project was to create a relevant AI model which can be further incorporated into agricultural systems. To build the model, we collected a dataset of images which had healthy leaves as well as infected leaves; this dataset was taken from Kaggle. Proceeding that, we cleaned the dataset and coded the model. Once built, we followed the general procedure of training and testing the model. The project was coded in Google Colab to make it accessible to everyone. 
